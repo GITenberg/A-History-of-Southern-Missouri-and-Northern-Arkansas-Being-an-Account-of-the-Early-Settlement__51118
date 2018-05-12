@@ -1,10 +1,16 @@
 _repo: A-History-of-Southern-Missouri-and-Northern-Arkansas-Being-an-Account-of-the-Early-Settlement__51118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51118-h/images/cover.jpg
 creator:
   author:
     agent_name: Monks, William
     gutenberg_agent_id: '46246'
     url: http://www.gutenberg.org/2009/agents/46246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51118#A-History-of-Southern-Missouri-and-Northern-Arkansas-Being-an-Account-of-the-Early-Settlement_
 gutenberg_issued: '2016-02-03'
 gutenberg_type: Text
 identifiers:
